@@ -31,6 +31,7 @@ aside ul li{
 section main{
     width: 85%;
     float: left;
+    padding: 10px 10px;
     text-align: justify;
 }
 main h3{
